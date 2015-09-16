@@ -1,0 +1,70 @@
+header, 
+footer {
+	margin: 0 auto;
+	width:90%;
+	max-width:990px;
+	background-color: #00CCCC;
+	padding: 1em;
+	
+}
+
+h2 {
+	color: #FFFFCC;
+	text-align: center;
+}
+
+hr {
+
+	}
+
+
+
+h5 {
+	font-size: 1.2em; 
+}
+
+h6 {
+	margin-left:2em;
+}
+
+.primary {
+	font-family: 'Kaushan Script', cursive;
+	margin: 0 auto;
+	width:90%;
+	max-width:990px;
+	background: url(images/confectionary.png);
+	padding: 1em;
+}
+
+.secondary {
+	padding-left;
+	padding-right: 
+}
+
+.linkedin {
+	text-align: right;
+}
+
+.intro {
+	text-align: center;
+}
+
+.subhead {
+	margin-left:4em;
+}
+
+.halfline {
+	width: 50%
+}
+
+.backlink {
+	padding: 10em 0 0 0;
+}
+
+ul {
+text-align: left;
+}
+
+a:hover {
+color: #8000FF;
+}
